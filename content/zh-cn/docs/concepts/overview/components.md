@@ -43,7 +43,7 @@ a complete and working Kubernetes cluster.
 <!-- body -->
 
 <!--
-## Control Plane Components
+##  Control Plane Components
 
 The control plane's components make global decisions about the cluster (for example, scheduling), as well as detecting and responding to cluster events (for example, starting up a new {{< glossary_tooltip text="pod" term_id="pod">}} when a deployment's `replicas` field is unsatisfied).
  -->
